@@ -1,0 +1,16 @@
+{
+  "name": "nodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no start command specified\"",
+    "stop": "echo \"Error: no stop command specified\""
+  },
+  "author": "sarah kardache and estelle drancy",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
