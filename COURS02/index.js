@@ -15,6 +15,11 @@ app.get(
     '/hello/:name', 
     (req, res) => res.render('hello.ejs', {name: req.params.name})
   )
+
+  app.get(
+    '/home',
+    (req, res) => res.render('home.ejs')
+  )
   
   app.get('/metrics.json', (req, res) => {
     metrics.get((err, data) => {
