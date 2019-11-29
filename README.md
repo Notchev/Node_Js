@@ -1,9 +1,9 @@
 # NodeJs
 Repository of Sarah Kardache and Estelle Drancy's labs of Node JS
 
-HOMEWORK : LAB 1 is in the file named LAB1.js in test2 and should be the only file to be compiled 
+HOMEWORK :
 
-PS : In test2 folder, you'll find other '.js' files which match the different examples of the course made in class and at home. 
+- LAB 1 corresponds to the first lab 
 
 Installation : nodemon has been installed, and package.json file has been implemented. 
 
