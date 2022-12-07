@@ -18,10 +18,10 @@
     "typescript": "^3.7.2"
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "ejs": "^2.7.2",
     "encoding-down": "^6.3.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "jquery": "^3.4.1",
     "level-ws": "^2.0.0",
     "leveldown": "^5.4.1",
